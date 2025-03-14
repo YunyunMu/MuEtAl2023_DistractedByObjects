@@ -5,6 +5,7 @@ Source Code for the data analysis and modeling for our published paper:
 Mu, Y., Tünnermann, J., & Schubö, A. (2024). Distracted by Objects: The Impact of Earlier Semantic Categorization. Advances in Cognitive Psychology, 20(4), 320. https://doi.org/10.5709/acp-0434-y
 
 ## Tech Stack
+- **Language**: Python
 - **Data Cleaning**: Pandas, NumPy
 - **Analysis & Modeling**: arviz, acvsfit, pymc
 - **Visualization**: Matplotlib, seaborn, aesara.tensor
